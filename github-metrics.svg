@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abgox/PSCompletions</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A completion manager for better and simpler use PowerShell completions. (一个补全管理模块，更简单、更方便的使用命令补全)</div>
@@ -1765,7 +1765,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Feb 2024, 04:28:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Feb 2024, 04:51:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
